@@ -1,5 +1,5 @@
 public class Solution {
     public static void main(String[] args) {
-        Test.testLC41();
+        Test.testLC47();
     }
 }

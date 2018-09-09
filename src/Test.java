@@ -40,4 +40,12 @@ class Test {
 
         Utils.print(LC41.f(new int[]{7, 8, 9, 11, 12}));
     }
+
+    static void testLC45() {
+        Utils.print(LC45.f(new int[]{2, 3, 1, 1, 4}));
+    }
+
+    static void testLC47() {
+        Utils.printLists(LC47.f(new int[]{1, 1, 2}));
+    }
 }
